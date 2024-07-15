@@ -3,7 +3,7 @@
 # from openai import OpenAI
 # import re
 
-# client = OpenAI(api_key="sk-proj-elcxIFzuutp7nFKjtzhvT3BlbkFJARwOefUtjKLsS8fgkHzJ")
+# client = OpenAI(api_key=" ")
 
 # def chat_with(prompt):
 #     response = client.chat.completions.create(
